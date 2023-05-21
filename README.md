@@ -1,5 +1,6 @@
 # Medical-Imaging-Exam
 Project for Medical Imaging exam, involving the application of 3 Neural Networks for brain cancer segmentation from MR images
+![image](https://github.com/MattLanzUnimib/Medical-Imaging-Exam/assets/98222024/4aca51e1-a81d-4d7f-9ca0-e94e482c2d18)
 
 ## Dataset
 For this exam we decided to use The BRATS (Brain Tumor Segmentation) dataset, a widely used and highly valuable resource in the field of medical imaging and computer vision. It is specifically designed for the task of brain tumor segmentation and aims to advance the development and evaluation of algorithms for automated brain tumor detection and classification.
@@ -20,6 +21,8 @@ SegNet is another popular architecture designed for semantic segmentation tasks,
 
 ## Model Comparison
 Throughout our experiments, we thoroughly evaluated the performance of each model using the Dice coefficient. We conducted extensive training, validation, and testing to assess the models' generalization and robustness.
+
+![Screenshot 2023-05-21 112215](https://github.com/MattLanzUnimib/Medical-Imaging-Exam/assets/98222024/ef96302b-cb03-40c8-92c4-80d6f2793ca8)
 
 By employing UNet, Residual UNet, and SegNet on the BRATS dataset, we aimed to explore the strengths and limitations of each architecture for brain tumor segmentation. The models served as valuable tools in advancing our understanding of tumor characteristics and assisting in clinical decision-making.
 
