@@ -1,5 +1,6 @@
 # Medical-Imaging-Exam
 Project for Medical Imaging exam, involving the application of 3 Neural Networks for brain cancer segmentation from MR images
+
 ![image](https://github.com/MattLanzUnimib/Medical-Imaging-Exam/assets/98222024/4aca51e1-a81d-4d7f-9ca0-e94e482c2d18)
 
 ## Dataset
