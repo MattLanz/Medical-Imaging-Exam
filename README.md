@@ -1,7 +1,7 @@
 # Medical-Imaging-Exam
 Project for Medical Imaging exam, involving the application of 3 Neural Networks for brain cancer segmentation from MR images
 
-![image](https://github.com/MattLanzUnimib/Medical-Imaging-Exam/assets/98222024/4aca51e1-a81d-4d7f-9ca0-e94e482c2d18)
+![resunet](https://github.com/MattLanzUnimib/Medical-Imaging-Exam/assets/98222024/7bda0091-dbd3-4445-b78b-26a0a1def9fc)
 
 ## Dataset
 For this exam we decided to use The BRATS (Brain Tumor Segmentation) dataset, a widely used and highly valuable resource in the field of medical imaging and computer vision. It is specifically designed for the task of brain tumor segmentation and aims to advance the development and evaluation of algorithms for automated brain tumor detection and classification.
