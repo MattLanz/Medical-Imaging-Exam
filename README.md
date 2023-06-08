@@ -27,4 +27,4 @@ Throughout our experiments, we thoroughly evaluated the performance of each mode
 
 By employing UNet, Residual UNet, and SegNet on the BRATS dataset, we aimed to explore the strengths and limitations of each architecture for brain tumor segmentation. The models served as valuable tools in advancing our understanding of tumor characteristics and assisting in clinical decision-making.
 
-Please refer to the model-specific documentation and source code for further details on the implementation, network architectures, and training configurations.
+Please refer to the model-specific documentation and source code for further details on the implementation, network architectures, and training configurations. 
